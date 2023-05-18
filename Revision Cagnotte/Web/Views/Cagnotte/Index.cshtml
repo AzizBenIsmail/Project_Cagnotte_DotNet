@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Domain.Cagnotte>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<fieldset>
+    <legend></legend>
+    <form asp-action="index">
+        <label for="filter">Recherchde par titre:</label>
+        <input type="text" name="filter" />
+        <input type="submit" value="Search" />
+    </form>
+</fieldset>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Titre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SommeDemandée)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateLimite)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Type)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Entreprise)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SommeDemandée)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateLimite)
+            </td>
+            <td>
+                <img src="~/uploads/@item.Photo " width="50" height="50" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Entreprise.EntrepriseId)
+            </td>*@
+            <td>
+                @Html.ActionLink(linkText: "Entreprise", actionName: "Details", controllerName: "Entreprise", routeValues: new { id = item.EntrepriseId }, htmlAttributes: null) 
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CagnotteId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CagnotteId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CagnotteId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

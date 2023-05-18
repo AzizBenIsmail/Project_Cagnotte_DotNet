@@ -1,0 +1,65 @@
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Asus\source\repos\Examen\Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Asus\source\repos\Examen\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Asus\Desktop\ExamenGAMIX\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Asus\Desktop\Revision\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.pdb
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\ServicePattern.dll
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\bin\Debug\netcoreapp3.1\ServicePattern.pdb
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\HP\Desktop\.Net\revision .net\examen cagnotte\Revision Cagnotte\Service\obj\Debug\netcoreapp3.1\Service.pdb
