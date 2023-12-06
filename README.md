@@ -1,4 +1,8 @@
 # ExamDotNetBeauty2023
+
+![GitHub repo size](https://img.shields.io/github/repo-size/AzizBenIsmail/Project_Cagnotte_DotNet)
+
+
 # class
     public enum PlaneType
     {
